@@ -33,7 +33,7 @@ Highlights
 
 ## Ideas
 * Write a function or class for performing the kNN learning of this example:  
-'def kNN(data, target): pass'
+`def kNN(data, target): pass`
 * Create an identifier for digits based on asterisk patterns that look like digits
 * Create an identifier for digit based on the MNIST database.
 
