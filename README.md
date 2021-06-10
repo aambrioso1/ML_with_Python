@@ -14,11 +14,13 @@ Folder for course on my local machine:  C:\Users\Alex\machine-learning\ML_with_P
 
 
 ### Necessary imports
-`import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import mglearn
-from iPython.display import display`
+`
+-import numpy as np
+-import matplotlib.pyplot as plt
+-import pandas as pd
+-import mglearn
+-from iPython.display import display
+`
 
 
 
