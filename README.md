@@ -13,5 +13,28 @@ Useful websites
 Folder for course on my local machine:  C:\Users\Alex\machine-learning\ML_with_Python
 
 
+Necessary imports
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import mglearn
+from iPython.display import diplay
 
 
+
+Chapter 1:  Introduction (Completed 6/10)
+Highlights
+* Introduction to Python
+* List of libraries that need to be imported to complete all examples in the book.
+* Definitions of supervised and unsupervised learning
+* Explanation of the k-nearest Neighbor algortithm for ML (kNN)
+* A nice example for identifying Iris species using supervised learning and a kNN
+
+
+Ideas
+* Write a function or class for performing the kNN learning of this example:  
+'def kNN(data, target): pass
+* Create a identifier for digits based on asterisk patterns that look like digits
+
+
+Chapter 2:  
