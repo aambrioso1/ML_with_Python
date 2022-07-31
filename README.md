@@ -42,4 +42,4 @@ Introduction (Completed 6/10)
 ## [Chapter 2](https://github.com/aambrioso1/ML_with_Python/blob/master/Chapter_2_Supervised_Learning.ipynb)
 
 
-##   
+## [Chapter 7:  Working with Text Data]
