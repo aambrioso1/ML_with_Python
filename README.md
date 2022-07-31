@@ -10,8 +10,9 @@ A repository for code and notes created as I study an Introduction to Machine Le
 - http://scikit-learn.org/stable/documentation
 - http://scikit-learn.org/stable/user_guide.html
 
-Folder for course on my local machine:  C:\Users\Alex\machine-learning\ML_with_Python
+Folder for course on my local machine:  
 
+/Users/alexanderambrioso/Documents/GitHub/ML_with_Python
 
 ### Necessary imports
 - import numpy as np
