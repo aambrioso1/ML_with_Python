@@ -21,7 +21,9 @@ Folder for course on my local machine:
 - import mglearn
 - from iPython.display import display'
 
-## Chapter 1:  Introduction (Completed 6/10)
+## [Chapter 1](https://github.com/aambrioso1/ML_with_Python/blob/master/Chapter_1_Introduction.ipynb)  
+
+Introduction (Completed 6/10)
 ### Highlights
 * Introduction to Python
 * List of libraries that need to be imported to complete all examples in the book.
@@ -37,4 +39,7 @@ Folder for course on my local machine:
 * Create an identifier for digit based on the MNIST database.
 
 
-## Chapter 2:  
+## [Chapter 2](https://github.com/aambrioso1/ML_with_Python/blob/master/Chapter_2_Supervised_Learning.ipynb)
+
+
+##   
